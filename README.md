@@ -1,10 +1,10 @@
 [![Build Status](https://travis-ci.org/goodtime-productivity/Goodtime.svg?branch=master)](https://travis-ci.org/goodtime-productivity/Goodtime)
 
-# Goodtime
+# QuickMaffs
 
 A productivity timer designed to keep you on track and free of distractions.  
 Get rid of procrastination and get your work done.  
-Goodtime will help you use the Pomodoro™ technique:  
+QuickMaffs will help you use the Pomodoro™ technique:  
 - split your work into 25 minute sessions of focus and then reward yourself with 5 minutes of break  
 - after 4 sessions of work, take a longer break  
   
